@@ -6,11 +6,9 @@
 ### Disciplina:  Edge Computing
 
 #### Integrantes do grupo:
-- Léo Masago RM:557768
-- Herbert Souza RM: 555701
 - Alexandre Assis RM: 558927
-- Eduardo Tomazela RM: 556807
 - Gustavo Ramalho RM: 554582
+- Herbert Souza RM: 555701
 
 ## 💥 Problema: 
 O desperdício de energia em residências, especialmente devido ao uso desnecessário de iluminação, é uma realidade comum que impacta tanto as finanças dos consumidores quanto o meio ambiente. Muitas vezes, luzes permanecem acesas em cômodos vazios ou por tempo prolongado, gerando um consumo desnecessário que eleva o valor das contas de energia e contribui para emissões de carbono desnecessárias. Esse problema é agravado pela falta de monitoramento em tempo real e pela ausência de informações claras para os usuários sobre o impacto financeiro e ambiental do uso excessivo de energia elétrica.
